@@ -4,8 +4,8 @@ The add-on allows you to enter your full login and password and then fill in the
 
 ### <img src="/dist/chrome-logo.svg" width="48" height="48" /> Chrome Web Store
 
-https://chrome.google.com/webstore/detail/moje-ing-masked-password/hjldkhnfpjflmcjfkghnccbhekljalek
+https://chrome.google.com/webstore/detail/pekao24-masked-password/efgeincmcmbalckaaecjdoiajinblenf
 
 ### <img src="/dist/firefox-logo.svg" width="48" height="48" /> Firefox Browser Add-ons
 
-https://addons.mozilla.org/pl/firefox/addon/moje-ing-masked-password/
+https://addons.mozilla.org/pl/firefox/addon/pekao24-masked-password-filler/
