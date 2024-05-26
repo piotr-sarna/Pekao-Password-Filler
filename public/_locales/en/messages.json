@@ -1,11 +1,19 @@
 {
   "app_title": {
-    "message": "Moje ING - masked password filler",
+    "message": "Pekao24 - masked password filler",
     "description": "Name of the extension"
   },
   "app_description": {
-    "message": "The add-on allows you to swiftly fill up your login and masked password on the Moje ING website",
+    "message": "The add-on allows you to swiftly fill up your login and masked password on the Pekao24 website",
     "description": "Description of the extension"
+  },
+  "fill_header_title": {
+    "message": "Pekao24",
+    "description": "Short title"
+  },
+  "fill_header_description": {
+    "message": "Masked password filler",
+    "description": "Description"
   },
   "fill_login": {
     "message": "Fill login",

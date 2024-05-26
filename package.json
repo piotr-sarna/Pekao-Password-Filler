@@ -1,10 +1,10 @@
 {
-  "name": "ing-password-filler",
-  "version": "3.0.0",
+  "name": "pekao-password-filler",
+  "version": "1.0.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/piotr-sarna/ING-Password-Filler"
+    "url": "https://github.com/piotr-sarna/Pekao-Password-Filler"
   },
   "scripts": {
     "build": "rollup -c",

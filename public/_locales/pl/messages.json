@@ -1,11 +1,19 @@
 {
   "app_title": {
-    "message": "Moje ING - wypełniacz maskowanego hasła",
+    "message": "Pekao24 - wypełniacz maskowanego hasła",
     "description": "Nazwa dodatku"
   },
   "app_description": {
-    "message": "Dodatek pozwala szybko uzupełnić login i maskowane hasło na stronie Moje ING",
+    "message": "Dodatek pozwala szybko uzupełnić login i maskowane hasło na stronie Pekao24",
     "description": "Opis dodatku"
+  },
+  "fill_header_title": {
+    "message": "Pekao24",
+    "description": "Krótki tytuł"
+  },
+  "fill_header_description": {
+    "message": "Wypełniacz maskowanego hasła",
+    "description": "Opis"
   },
   "fill_login": {
     "message": "Wypełnij login",

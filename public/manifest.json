@@ -1,11 +1,11 @@
 {
   "name": "__MSG_app_title__",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "__MSG_app_description__",
   "permissions": [],
   "content_scripts": [
     {
-      "matches": ["https://login.ingbank.pl/mojeing/app/*"],
+      "matches": ["https://www.pekao24.pl/*"],
       "css": ["build/bundle.css"],
       "js": ["build/bundle.js"]
     }
